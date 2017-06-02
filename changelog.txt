@@ -1,6 +1,7 @@
 This mod is only compatible with the following Devices:
 
 - Resurrection Remix OS @ Samsung Galaxy S7 Edge (G935F, G935FD, G935W8)
-
+v2
+	- Merged Fix reverse mic selected in speaker mode https://review.lineageos.org/#/c/175604/
 v1
     - Initial Mod (Resurrection Remix OS Release)
