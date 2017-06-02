@@ -50,7 +50,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "       RR Dual Sound Mod       "
+  ui_print "     The Dual Speaker Mod      "
   ui_print "*******************************"
 }
 

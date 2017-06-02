@@ -1,7 +1,7 @@
 id=magisk-dualspeakermod-s7-rr
-name=The Dual Speaker Mod S7 (Resurrection Remix OS & Lineage OS)
+name=The Dual Speaker Mod S7 (Resurrection Remix OS & LineageOS)
 version=v2
 versionCode=2
-author=TURBO2012 ZeRoZeRoRaZ
-description=Support for S7/S7 Edge, Resurrection Remix ROM & Lineage OS only. MixerPaths by TURBO2012, ported to Magisk by ZeRoZeRoRaZ
+author=TURBO2012, ZeRoZeRoRaZ
+description=Dual Speaker Mod for S7/S7 Edge running Resurrection Remix ROM or LineageOS only. MixerPaths by TURBO2012, ported to Magisk by ZeRoZeRoRaZ
 template=3
