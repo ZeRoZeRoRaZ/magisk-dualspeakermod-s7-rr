@@ -1,0 +1,6 @@
+This mod is only compatible with the following Devices:
+
+- Resurrection Remix OS @ Samsung Galaxy S7 Edge (G935F, G935FD, G935W8)
+
+v1
+    - Initial Mod (Resurrection Remix OS Release)
